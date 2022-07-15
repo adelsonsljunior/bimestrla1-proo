@@ -6,6 +6,8 @@
 
 **Dupla: Adelson Santos Lima Júnior e [Felipe de Lima de Batista](https://github.com/Felipkw)**
 
+**Data de entrega: 11/07/2022**
+
 # Descrição
 
 A empresa Nova Arapiraca atua na área de vendas de produtos alimentícios e deseja que você faça uma aplicação em 
