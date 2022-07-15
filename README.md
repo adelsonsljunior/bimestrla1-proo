@@ -4,7 +4,7 @@
 
 **Instituto Federal de Alagoas - Campus Arapiraca**
 
-Dupla: Adelson Santos Lima Júnior e [Felipe de Lima de Batista](https://github.com/Felipkw)
+**Dupla: Adelson Santos Lima Júnior e [Felipe de Lima de Batista](https://github.com/Felipkw)**
 
 # Descrição
 
