@@ -6,7 +6,7 @@
 
 Dupla: Adelson Santos Lima Júnior e [Felipe de Lima de Batista](https://github.com/Felipkw)
 
-# Desccrição
+# Descrição
 
 A empresa Nova Arapiraca atua na área de vendas de produtos alimentícios e deseja que você faça uma aplicação em 
 JAVA para o controle de funcionários. Para cada funcionário são registradas as seguintes informações: nome, CPF, telefone, gênero, função na empresa, endereço e data de admissão. Cada funcionário trabalha num departamento, que possui um código, nome e um responsável. Ao final de cada mês, é realizado o seguinte cálculo para o pagamento de cada funcionário:
