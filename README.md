@@ -8,6 +8,8 @@
 
 **Data de entrega: 11/07/2022**
 
+<br>
+
 # Descrição
 
 A empresa Nova Arapiraca atua na área de vendas de produtos alimentícios e deseja que você faça uma aplicação em 
@@ -43,10 +45,9 @@ A partir da descrição acima e considerando os conceitos de orientação a obje
 
 <br>
 
-### OBSERVAÇÕES:
+# OBSERVAÇÕES:
 
-+ Está é uma descrição geral, fique à vontade para identificar classes, atributos e métodos relacionados ao problema que você julgue importantes;
-
+  + Está é uma descrição geral, fique à vontade para identificar classes, atributos e métodos relacionados ao problema que você julgue importantes;
 
 <br>
 <br>
