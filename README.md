@@ -45,7 +45,7 @@ A partir da descrição acima e considerando os conceitos de orientação a obje
 
 <br>
 
-# OBSERVAÇÕES:
+# Observações:
 
   + Está é uma descrição geral, fique à vontade para identificar classes, atributos e métodos relacionados ao problema que você julgue importantes;
 
