@@ -1,5 +1,6 @@
 import java.util.Scanner;
 // teste
+//ssss
 public class Endereco {
 
     String rua;
